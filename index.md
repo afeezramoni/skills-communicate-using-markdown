@@ -7,4 +7,10 @@
 
 ![Big Head](https://octodex.github.com/images/yaktocat.png)
 
+``` Java
+public int getAge(){
+  return 45;
+}
+```
+
 Playing with 6 Header Markup
