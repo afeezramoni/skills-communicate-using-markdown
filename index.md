@@ -12,5 +12,8 @@ public int getAge(){
   return 45;
 }
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 Playing with 6 Header Markup
