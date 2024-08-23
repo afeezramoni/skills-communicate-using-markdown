@@ -5,5 +5,6 @@
 ##### Header-5
 ###### Header-6
 
+![Big Head](https://octodex.github.com/images/yaktocat.png)
 
 Playing with 6 Header Markup
